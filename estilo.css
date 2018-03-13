@@ -1,0 +1,121 @@
+
+@import url('https://fonts.googleapis.com/css?family=Pragati+Narrow');
+
+
+
+header#container{
+	background: #4a366f;
+}
+
+header#container img{
+	height: 30px;
+	width: 30px;
+	position: relative;
+	left: 1100px;
+	margin: 3px;
+}
+
+
+nav#menu{
+	background-color: #35205d;
+	padding: 40px;
+}
+
+nav#menu ul li{
+	text-decoration: none;
+	color: #fff;
+	display: inline;
+	padding-right: 30px;
+	font-size: 15pt;
+	font-family: "Oswald";
+
+}
+
+nav#menu img{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: -20px;
+}
+
+div#features{
+	background-color: #35205d;
+	padding: 20px;
+	padding: 5 5 30px;
+	margin-top: -6px;
+}
+
+div#features h2{
+	color: white;
+	font-size: 20pt;
+	font-family: "Pragati Narrow";
+	text-align: center;
+}
+
+
+div#features h1{
+	background-color: #4e0c87;
+	border-radius:10px;
+	display: inline-block;
+	color: white;
+	padding: 40px;
+	top: 900px;
+	margin: 10px;
+	font-size: 20pt;
+	font-family: 'Pragati Narrow', sans-serif;
+
+}
+
+div#EQUIPA h1{
+	position: relative;
+	text-align: center;
+	color: white;
+	text-shadow: 0 0 5px black;
+	top: -600px;
+	font-size: 60pt;
+}
+
+div#EQUIPA img{
+	top: -100px;
+	position: relative;
+
+}
+
+
+footer#rodape{
+	padding: 20px;
+	background: #35205d;
+	text-align: center;
+}
+
+footer#rodape p{
+	color: white;
+}
+
+footer#rodape img{
+	height: 50px;
+	width: 50px;
+	margin: 5px;
+}
+
+div#colunas h1{
+	color: white;
+	font-size: 13pt;
+	background: #35205d;
+	padding: 5px 10px 10px;
+	top: -29px;
+	font-weight: bold;
+}
+
+div#colunas ul li{
+	color: white;
+}
+
+div#colunas ul li a{
+	text-decoration: none;
+}
+
+div#colunas ul li:hover{
+	color: #a7c2f9;
+	transition: 1s;
+}
